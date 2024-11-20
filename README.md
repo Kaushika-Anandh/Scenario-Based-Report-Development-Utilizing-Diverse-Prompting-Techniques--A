@@ -25,7 +25,7 @@ The chatbot will serve as a customer support assistant, designed to help users:
     3.	`Personalization:` Use customer purchase history and browsing behavior to offer tailored recommendations.
     4.	`24/7 Availability:` Ensure the chatbot can handle inquiries at any time, reducing the need for human intervention.
 
-**2. Identify Prompt Patterns for Each Design Aspect**
+### 2. Identify Prompt Patterns for Each Design Aspect
 - Idea Generation Prompts
     - `Example Prompt:`
     "What are some key features an AI-powered retail chatbot should have to enhance customer experience?"
@@ -89,7 +89,7 @@ The chatbot will serve as a customer support assistant, designed to help users:
         2.	Escalation Options:
             - Offer to escalate the query to a live support agent if the bot cannot resolve the issue after several attempts.
 
-**3. Implementation Plan**
+### 3. Implementation Plan
 1.	System Configuration:
     - Deploy chatbot on cloud platforms (AWS, Google Cloud) for scalable infrastructure.
     - Ensure backend systems (e-commerce platform, CRM, payment gateway) are fully integrated with the chatbot.
@@ -107,7 +107,7 @@ The chatbot will serve as a customer support assistant, designed to help users:
     - Deploy the chatbot across multiple platforms (website, mobile app, social media).
     - Integrate with third-party messaging platforms (e.g., WhatsApp, Facebook Messenger).
 
-**4. Evaluation and Feedback Collection**
+### 4. Evaluation and Feedback Collection
 - Feedback Prompts:
     - “How satisfied were you with the response time for your inquiry?”
     - “Was the chatbot able to provide the information you needed?”
@@ -125,7 +125,7 @@ The chatbot will serve as a customer support assistant, designed to help users:
         2.	Scenario Testing Prompts: Helped refine the product recommendation system.
         3.	Refinement Prompts: Highlighted the need for faster response times and more efficient database handling.
 
-**Deliverables**
+### Deliverables
 1.	Detailed Report:
     - A comprehensive report covering chatbot design, objectives, and key insights from prompt-driven exploration.
 2.	Functional Prototype:
